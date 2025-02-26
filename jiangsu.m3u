@@ -1,49 +1,3 @@
-#EXTINF:-1 group-title="央视频道",CCTV-1 高清
-http://223.110.241.204:6610/gitv/live1/G_CCTV-1-HQ/G_CCTV-1-HQ/
-#EXTINF:-1 group-title="央视频道",CCTV-3 高清
-http://223.110.241.204:6610/gitv/live1/G_CCTV-3-HQ/G_CCTV-3-HQ/
-#EXTINF:-1 group-title="央视频道",CCTV-4 高清
-http://223.110.241.204:6610/gitv/live1/G_CCTV-4-HQ/G_CCTV-4-HQ/
-#EXTINF:-1 group-title="央视频道",CCTV-5 高清
-http://223.110.241.204:6610/gitv/live1/G_CCTV-5-HQ/G_CCTV-5-HQ/
-#EXTINF:-1 group-title="央视频道",CCTV-5+ 高清
-http://223.110.241.204:6610/gitv/live1/G_CCTV-5PLUS-HQ/G_CCTV-5PLUS-HQ/
-#EXTINF:-1 group-title="央视频道",CCTV-6 高清
-http://223.110.242.207:6610/jsyd/live1/G_CCTV-6-MD/G_CCTV-6-MD/1.m3u8
-#EXTINF:-1 group-title="央视频道",CCTV-7 高清
-http://223.110.242.217:6610/cntv/live1/H265-12000k-1080P-cctv7/H265-12000k-1080P-cctv7/1.m3u8
-#EXTINF:-1 group-title="央视频道",CCTV-8 高清
-http://223.110.241.204:6610/gitv/live1/G_CCTV-8-HQ/G_CCTV-8-HQ/
-#EXTINF:-1 group-title="央视频道",CCTV-10 高清
-http://223.110.241.204:6610/gitv/live1/G_CCTV-10-HQ/G_CCTV-10-HQ/
-#EXTINF:-1 group-title="央视频道",CCTV-11 高清
-http://223.110.241.204:6610/gitv/live1/G_CCTV-11-HQ/G_CCTV-11-HQ/
-#EXTINF:-1 group-title="央视频道",CCTV-13 高清
-http://223.110.241.204:6610/gitv/live1/G_CCTV-13-HQ/G_CCTV-13-HQ/
-#EXTINF:-1 group-title="卫视频道",北京卫视高清
-http://223.110.241.204:6610/gitv/live1/G_BEIJING-HQ/G_BEIJING-HQ/
-#EXTINF:-1 group-title="卫视频道",广东卫视高清
-http://223.110.241.204:6610/gitv/live1/G_GUANGDONG-HQ/G_GUANGDONG-HQ/
-#EXTINF:-1 group-title="卫视频道",黑龙江卫视高清
-http://223.110.241.204:6610/gitv/live1/G_HEILONGJIANG-HQ/G_HEILONGJIANG-HQ/
-#EXTINF:-1 group-title="卫视频道",湖北卫视高清
-http://223.110.241.204:6610/gitv/live1/G_HUBEI-HQ/G_HUBEI-HQ/
-#EXTINF:-1 group-title="卫视频道",湖南卫视高清
-http://223.110.241.204:6610/gitv/live1/G_HUNAN-HQ/G_HUNAN-HQ/
-#EXTINF:-1 group-title="卫视频道",江苏卫视高清
-http://223.110.241.204:6610/gitv/live1/G_JIANGSU-HQ/G_JIANGSU-HQ/
-#EXTINF:-1 group-title="卫视频道",辽宁卫视高清
-http://223.110.241.204:6610/gitv/live1/G_LIAONING-HQ/G_LIAONING-HQ/
-#EXTINF:-1 group-title="卫视频道",山东卫视高清
-http://223.110.241.204:6610/gitv/live1/G_SHANDONG-HQ/G_SHANDONG-HQ/
-#EXTINF:-1 group-title="卫视频道",东方卫视高清
-http://223.110.241.204:6610/gitv/live1/G_DONGFANG-HQ/G_DONGFANG-HQ/
-#EXTINF:-1 group-title="卫视频道",深圳卫视高清
-http://223.110.241.204:6610/gitv/live1/G_SHENZHEN-HQ/G_SHENZHEN-HQ/
-#EXTINF:-1 group-title="卫视频道",天津卫视高清
-http://223.110.241.204:6610/gitv/live1/G_TIANJIN-HQ/G_TIANJIN-HQ/
-#EXTINF:-1 group-title="卫视频道",浙江卫视高清
-http://223.110.241.204:6610/gitv/live1/G_ZHEJIANG-HQ/G_ZHEJIANG-HQ/
 #EXTINF:-1 group-title="央视频道",CCTV-1超清
 http://223.110.241.204:6610/gitv/live1/G_CCTV-1-CQ/G_CCTV-1-CQ/
 #EXTINF:-1 group-title="央视频道",CCTV-2超清
@@ -86,6 +40,68 @@ http://223.110.241.204:6610/gitv/live1/G_SHENZHEN-CQ/G_SHENZHEN-CQ/
 http://223.110.241.204:6610/gitv/live1/G_TIANJIN-CQ/G_TIANJIN-CQ/
 #EXTINF:-1 group-title="卫视频道",浙江卫视超清
 http://223.110.241.204:6610/gitv/live1/G_ZHEJIANG-CQ/G_ZHEJIANG-CQ/
+#EXTINF:-1 group-title="卫视频道",北京卫视高清
+http://223.110.241.204:6610/gitv/live1/G_BEIJING-HQ/G_BEIJING-HQ/
+#EXTINF:-1 group-title="卫视频道",广东卫视高清
+http://223.110.241.204:6610/gitv/live1/G_GUANGDONG-HQ/G_GUANGDONG-HQ/
+#EXTINF:-1 group-title="卫视频道",黑龙江卫视高清
+http://223.110.241.204:6610/gitv/live1/G_HEILONGJIANG-HQ/G_HEILONGJIANG-HQ/
+#EXTINF:-1 group-title="卫视频道",湖北卫视高清
+http://223.110.241.204:6610/gitv/live1/G_HUBEI-HQ/G_HUBEI-HQ/
+#EXTINF:-1 group-title="卫视频道",湖南卫视高清
+http://223.110.241.204:6610/gitv/live1/G_HUNAN-HQ/G_HUNAN-HQ/
+#EXTINF:-1 group-title="卫视频道",江苏卫视高清
+http://223.110.241.204:6610/gitv/live1/G_JIANGSU-HQ/G_JIANGSU-HQ/
+#EXTINF:-1 group-title="卫视频道",辽宁卫视高清
+http://223.110.241.204:6610/gitv/live1/G_LIAONING-HQ/G_LIAONING-HQ/
+#EXTINF:-1 group-title="卫视频道",山东卫视高清
+http://223.110.241.204:6610/gitv/live1/G_SHANDONG-HQ/G_SHANDONG-HQ/
+#EXTINF:-1 group-title="卫视频道",东方卫视高清
+http://223.110.241.204:6610/gitv/live1/G_DONGFANG-HQ/G_DONGFANG-HQ/
+#EXTINF:-1 group-title="卫视频道",深圳卫视高清
+http://223.110.241.204:6610/gitv/live1/G_SHENZHEN-HQ/G_SHENZHEN-HQ/
+#EXTINF:-1 group-title="卫视频道",天津卫视高清
+http://223.110.241.204:6610/gitv/live1/G_TIANJIN-HQ/G_TIANJIN-HQ/
+#EXTINF:-1 group-title="卫视频道",浙江卫视高清
+http://223.110.241.204:6610/gitv/live1/G_ZHEJIANG-HQ/G_ZHEJIANG-HQ/
+#EXTINF:-1 group-title="卫视频道",CCTV老故事
+http://223.110.241.204:6610/gitv/live1/G_LAOGUSHI/G_LAOGUSHI/
+#EXTINF:-1 group-title="卫视频道",篮球
+http://223.110.241.204:6610/gitv/live1/G_GUOXUE/G_GUOXUE/
+#EXTINF:-1 group-title="卫视频道",中国交通
+http://223.110.241.204:6610/gitv/live1/G_ZHONGGUOJT/G_ZHONGGUOJT/
+#EXTINF:-1 group-title="卫视频道",卡酷少儿
+http://223.110.241.204:6610/gitv/live1/G_KAKU/G_KAKU/
+#EXTINF:-1 group-title="卫视频道",金鹰卡通
+http://223.110.241.204:6610/gitv/live1/G_JINYING/G_JINYING/
+#EXTINF:-1 group-title="卫视频道",炫动卡通
+http://223.110.241.204:6610/gitv/live1/G_XUANDONG/G_XUANDONG/
+#EXTINF:-1 group-title="卫视频道",优漫卡通
+http://223.110.241.204:6610/gitv/live1/G_YOUMAN/G_YOUMAN/
+#EXTINF:-1 group-title="卫视频道",嘉佳卡通
+http://223.110.241.204:6610/gitv/live1/G_JIAJIA/G_JIAJIA/
+#EXTINF:-1 group-title="央视频道",CCTV-1 高清
+http://223.110.241.204:6610/gitv/live1/G_CCTV-1-HQ/G_CCTV-1-HQ/
+#EXTINF:-1 group-title="央视频道",CCTV-3 高清
+http://223.110.241.204:6610/gitv/live1/G_CCTV-3-HQ/G_CCTV-3-HQ/
+#EXTINF:-1 group-title="央视频道",CCTV-4 高清
+http://223.110.241.204:6610/gitv/live1/G_CCTV-4-HQ/G_CCTV-4-HQ/
+#EXTINF:-1 group-title="央视频道",CCTV-5 高清
+http://223.110.241.204:6610/gitv/live1/G_CCTV-5-HQ/G_CCTV-5-HQ/
+#EXTINF:-1 group-title="央视频道",CCTV-5+ 高清
+http://223.110.241.204:6610/gitv/live1/G_CCTV-5PLUS-HQ/G_CCTV-5PLUS-HQ/
+#EXTINF:-1 group-title="央视频道",CCTV-6 高清
+http://223.110.242.207:6610/jsyd/live1/G_CCTV-6-MD/G_CCTV-6-MD/1.m3u8
+#EXTINF:-1 group-title="央视频道",CCTV-7 高清
+http://223.110.242.217:6610/cntv/live1/H265-12000k-1080P-cctv7/H265-12000k-1080P-cctv7/1.m3u8
+#EXTINF:-1 group-title="央视频道",CCTV-8 高清
+http://223.110.241.204:6610/gitv/live1/G_CCTV-8-HQ/G_CCTV-8-HQ/
+#EXTINF:-1 group-title="央视频道",CCTV-10 高清
+http://223.110.241.204:6610/gitv/live1/G_CCTV-10-HQ/G_CCTV-10-HQ/
+#EXTINF:-1 group-title="央视频道",CCTV-11 高清
+http://223.110.241.204:6610/gitv/live1/G_CCTV-11-HQ/G_CCTV-11-HQ/
+#EXTINF:-1 group-title="央视频道",CCTV-13 高清
+http://223.110.241.204:6610/gitv/live1/G_CCTV-13-HQ/G_CCTV-13-HQ/
 #EXTINF:-1 group-title="央视频道",CCTV-1
 http://223.110.241.204:6610/gitv/live1/G_CCTV-1/G_CCTV-1/
 #EXTINF:-1 group-title="央视频道",CCTV-2
@@ -192,19 +208,3 @@ http://223.110.241.204:6610/gitv/live1/G_ZHEJIANG/G_ZHEJIANG/
 http://223.110.241.204:6610/gitv/live1/G_CHONGQING/G_CHONGQING/
 #EXTINF:-1 group-title="卫视频道",农林卫视
 http://223.110.241.204:6610/gitv/live1/G_NONGLIN/G_NONGLIN/
-#EXTINF:-1 group-title="卫视频道",CCTV老故事
-http://223.110.241.204:6610/gitv/live1/G_LAOGUSHI/G_LAOGUSHI/
-#EXTINF:-1 group-title="卫视频道",篮球
-http://223.110.241.204:6610/gitv/live1/G_GUOXUE/G_GUOXUE/
-#EXTINF:-1 group-title="卫视频道",中国交通
-http://223.110.241.204:6610/gitv/live1/G_ZHONGGUOJT/G_ZHONGGUOJT/
-#EXTINF:-1 group-title="卫视频道",卡酷少儿
-http://223.110.241.204:6610/gitv/live1/G_KAKU/G_KAKU/
-#EXTINF:-1 group-title="卫视频道",金鹰卡通
-http://223.110.241.204:6610/gitv/live1/G_JINYING/G_JINYING/
-#EXTINF:-1 group-title="卫视频道",炫动卡通
-http://223.110.241.204:6610/gitv/live1/G_XUANDONG/G_XUANDONG/
-#EXTINF:-1 group-title="卫视频道",优漫卡通
-http://223.110.241.204:6610/gitv/live1/G_YOUMAN/G_YOUMAN/
-#EXTINF:-1 group-title="卫视频道",嘉佳卡通
-http://223.110.241.204:6610/gitv/live1/G_JIAJIA/G_JIAJIA/
